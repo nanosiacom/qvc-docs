@@ -4,7 +4,7 @@
 
 ## Tahap Instalasi
 
-### Install Php 8.1 Laragon
+### Install PHP 8.1 Laragon
   1. Download laragon [disini](https://laragon.org/download/index.html), pilih laragon full, kemudian install seperti instalasi software yg lain.
 
 ![laragon-download!](https://github.com/nanosiacom/qvc-docs/blob/main/laragon-download.png "laragon-download")
@@ -14,10 +14,15 @@
 ![php-download!](https://github.com/nanosiacom/qvc-docs/blob/main/php-download.png "php-download")
 
   3. Buka folder `laragon-bin-php`, yang biasanya berlokasi di `C:\laragon\bin\php`. Paste php 8.1 yang sudah didownload sebelumnya, kemudian extract
+  
+![php81!](https://github.com/nanosiacom/qvc-docs/blob/main/php81.png "php81")
+
   4. Buka laragon, klik kanan, kemudian pilih PHP-version-centang php 8.1.14
   5. Masih di laragon, lakukan klik kanan, kemudian pilih **PHP-Extensions-pastikan** centang bagian **pdo_sqlite**
 
-### Install Ffmpeg
+### Install FFmpeg
   1. Download FFmpeg [disini](https://www.gyan.dev/ffmpeg/builds/)
 
 ![ffmpeg-download!](https://github.com/nanosiacom/qvc-docs/blob/main/ffmpeg-download.png "ffmpeg-download")
+
+  2. Extract di folder `C:` rename dengan folder `ffmpeg`
