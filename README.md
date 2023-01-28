@@ -26,6 +26,7 @@
 ![ffmpeg-download!](https://github.com/nanosiacom/qvc-docs/blob/main/ffmpeg-download.png "ffmpeg-download")
 
   2. Selanjutnya memasukkan lokasi `C:\ffmpeg\bin` ke Path Windows. caranya ikuti pada video berikut ini https://www.youtube.com/watch?v=cnRAO9b0LHE
+  3. Jangan lupa restart windows.
 
 ## Penggunaan
 
