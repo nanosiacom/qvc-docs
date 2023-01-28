@@ -33,5 +33,7 @@
 
 ![laragon!](https://github.com/nanosiacom/qvc-docs/blob/main/laragon.png "laragon")
 ![laragon-terminal!](https://github.com/nanosiacom/qvc-docs/blob/main/laragon-terminal.png "laragon-terminal")
-  2. Di terminal jalankan perinta `php qvc go`
+
+ 2. Di terminal jalankan perinta `php qvc go`
+
 ![php-go!](https://github.com/nanosiacom/qvc-docs/blob/main/php-go.png "php-go")
