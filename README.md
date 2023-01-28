@@ -29,11 +29,15 @@
 
 ## Penggunaan
 
- 1. Buka laragon, klik tombol `start` dan `terminal`
+ 1. Extract file `quote-video-creator.zip` 
+
+![quote-video-creator!](https://github.com/nanosiacom/qvc-docs/blob/main/qvc.png "quote-video-creator")
+
+ 3. Buka laragon, klik tombol `start` dan `terminal`
 
 ![laragon!](https://github.com/nanosiacom/qvc-docs/blob/main/laragon.png "laragon")
 ![laragon-terminal!](https://github.com/nanosiacom/qvc-docs/blob/main/laragon-terminal.png "laragon-terminal")
 
- 2. Di terminal jalankan perinta `php qvc go`
+ 3. Di terminal jalankan perinta `php qvc go`
 
 ![php-go!](https://github.com/nanosiacom/qvc-docs/blob/main/php-go.png "php-go")
