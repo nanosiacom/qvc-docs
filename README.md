@@ -24,6 +24,8 @@ Contoh hasil videonya seperti ini:
   3. dan yang ini berupa database di `database/database.sqlite` hasil dari OpenAi akan disimpan di database tsb. Bisa dimanfaatkan untuk caption, atau konten blog.
 - Bisa tanpa OpenAi, alias manual menggunakan data quote sendiri di file `resources/quotes.txt`. Jadi sumber quotenya dari file ini.
 
+## Untuk mendapatkan script ini langung kesini => [DISINI](https://member.nanosia.com/signup/qvc)
+
 ## Alat dan Bahan
 1. Php >=8.1 (Windows Laragon)
 2. FFmpeg
