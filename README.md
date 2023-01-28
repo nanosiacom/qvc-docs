@@ -1,3 +1,20 @@
+# Quote Video Creator
+
+Quote Video Creator adalah sebuat tool untuk membuat video yang bertipe Quote dan sudah di dukung dengan tehnologi **OpenAi Gpt3** yang bisa membuatkan sebuah Quote untuk dijadikan sebuah video pendek, video bisa di unggah ke social media seperti Tiktok, Ig/Fb Reel, Youtube Short, dsb.
+
+Saya terinspirasi dengan beberapa video di youtube, yang membagikan sebuah cara untuk mendapatkan penghasilan dengan youtube short, dan sekaligus mendapatkan pahala.
+
+![inspirasi!](https://github.com/nanosiacom/qvc-docs/blob/main/inspirasi.png "inspirasi")
+
+Dari ss diatas, terlihat penghasilan mereka antara `14juta`, `20juta`, `sampai 90juta`. 
+
+Akhirnya saya membuat sebuah tool untuk mempermudah dalam pembuatan konten untuk video shortnya.
+
+Contoh hasil videonya seperti ini:
+- https://www.youtube.com/shorts/eY-d8rTgz9o
+- https://www.youtube.com/shorts/o4a9ezangHg
+- https://www.youtube.com/shorts/TQeE86M4DV8
+
 ## Alat dan Bahan
 1. Php >=8.1 (Windows Laragon)
 2. FFmpeg
